@@ -1,0 +1,15 @@
+﻿  Award.cpp
+  i230701_A.cpp
+  LeaderBoard.cpp
+  Player.cpp
+  PlayerStatistics.cpp
+  Schdeule.cpp
+  Season.cpp
+C:\Users\Umar Hussain\Desktop\Assignments\Assignement3\Assignement3\Schdeule.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Umar Hussain\Desktop\Assignments\Assignement3\Assignement3\Schdeule.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  String.cpp
+  Team.cpp
+C:\Users\Umar Hussain\Desktop\Assignments\Assignement3\Assignement3\Team.cpp(115,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TeamStatistics.cpp
+  Generating Code...
+  Assignement3.vcxproj -> C:\Users\Umar Hussain\Desktop\Assignments\Assignement3\x64\Debug\Assignement3.exe
